@@ -1,7 +1,7 @@
 # Trabalho final
 
-* Nome do Aluno: ________
-* Número de Matrícula: ________
+* Nome do Aluno: Daniel de Jesus Guimarães
+* Número de Matrícula: 2019110646
 * Disciplina: Aprendizado de Máquina
 * Semestre: 2023/1
 * Data da entrega: 28/06/2023
